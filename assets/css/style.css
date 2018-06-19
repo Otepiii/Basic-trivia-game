@@ -1,0 +1,44 @@
+body {
+    background-size: cover;
+    font-family: monospace;
+    background-attachment: fixed;
+}
+
+.card {
+    width: 60%;
+    margin-top: 70px;
+    height: 500px;
+    padding-top: 170px;
+    margin-left:300px;
+    background-color: #212529;
+    margin: auto;
+    
+}
+
+#main-box {
+    background-color: #212529;
+    box-shadow: inset 3px #4c0d13;
+    position: relative;
+}
+
+.text-center {
+    background-color: #212529;
+    color: white;
+    font-family: monospace;
+    
+}
+
+.card-title {
+    font-size: 50px;
+    font-weight: 800;
+    letter-spacing: -2px;
+    text-shadow: #4c0d13;    
+    
+}
+
+.btn-danger {
+    width:100px;
+    margin-left: 405px;
+    size:1px;
+    font-size: 16px;
+}   
