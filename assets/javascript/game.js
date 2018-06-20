@@ -1,4 +1,4 @@
-var panel = $("#input-game");
+var panel = $(".input-game");
 
 $(document).on("click", ".btn", function (event) {
    game.start();
